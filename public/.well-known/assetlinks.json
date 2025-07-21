@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.globalrelay.message.debug",
+    "sha256_cert_fingerprints":
+    ["46:01:40:E2:21:4C:C7:24:39:BB:9A:58:0C:EE:DC:BE:7A:48:03:FE:97:0A:AF:9E:2D:58:69:63:76:8F:CA:34"]
+  }
+}]
